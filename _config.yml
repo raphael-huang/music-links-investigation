@@ -22,8 +22,8 @@ title: The Nexus
 email: wowraphael@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is harder than writing an Instagram bio.
-baseurl: "/blu-exe.github.io" # the subpath of your site, e.g. /blog
-url: "https://blu-exe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/raphael-huang.github.io" # the subpath of your site, e.g. /blog
+url: "https://raphael-huang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bludotexe
 github_username:  blu-exe
 
