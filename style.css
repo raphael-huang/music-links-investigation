@@ -7,3 +7,12 @@
     background-size: cover;
     height: 500px;
 }
+
+h1 {
+    color: white;
+    padding: 15px;
+}
+
+#temp {
+    color: white;
+}
